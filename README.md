@@ -12,7 +12,7 @@ max_stolb = matr[j][i];
 }
 }
 return max_stolb;
-}
+
 
 void obmen_stolbov(int** matr, int stolb1, int stolb2) {
 int* p = matr[stolb1];
